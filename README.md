@@ -33,8 +33,8 @@
 #### Что использовалось при создании:
 Шаблон для блога: https://html.design/download/markedia-marketing-template/ <br>
 Для админ панели использовался: AdminLTE <br>
-php: ^7.2.5|^8.0 <br>
-Laravel: ^7.29 <br>
+php: 7.4 <br>
+Laravel: 7.30.4 <br>
 laravel-sluggable версии 7.0: https://github.com/cviebrock/eloquent-sluggable <br>
 CKEditor 5: https://ckeditor.com/ckeditor-5/ <br>
 CKFinder: https://ckeditor.com/ckfinder/ <br>
